@@ -1,0 +1,10 @@
+my_details = {
+"Dorcas": {
+        "Name": "Dorcas Adejuyigbe",
+        "slack username": "Dorcas",
+        "Hobby": "Singing",
+        "Country": "Nigeria",
+        "Discipline": "Medical laboratory Science"
+        "Preferred langauge": "Python"
+    }
+}
